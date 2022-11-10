@@ -1,3 +1,2 @@
 # pre-commit
-
-test
+test hook
